@@ -1,4 +1,6 @@
 # Define a function for computing the cross products of two arrays of vectors
+# version in pure python using loops
+# version using numpy without loops
 from compas.geometry import Vector
 import numpy as np
 
